@@ -77,7 +77,7 @@ function draw() {
 
    
   }
-/
+
 
   if(isTouching(ball1,r1)){
     score=score+1;
