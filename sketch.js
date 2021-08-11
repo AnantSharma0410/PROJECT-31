@@ -69,7 +69,7 @@ function draw() {
   }
 
     fill(c);
-    ellipse(ball1.position.x,ball1.position.y,10,10);
+   
   
   for (var k = 0; k < divisions.length; k++) {
     
